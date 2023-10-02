@@ -8,7 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogurazvan&count_private=true&show_icons=true&hide=prs,issues)
 
-# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogurazvan&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogurazvan&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gogurazvan&hide_border=true" />
