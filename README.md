@@ -6,7 +6,7 @@
   - email at gogu.razvan2001@gmail.com 
   - connect with me on LinkedIn at https://www.linkedin.com/in/gogu-razvan-a02a64242/
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogurazvan&count_private=true&show_icons=true&hide=prs,issues)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gogurazvan&count_private=true&show_icons=true&hide=prs,issues)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gogurazvan&langs_count=2)](https://github.com/anuraghazra/github-readme-stats)-->
 
